@@ -1,3 +1,1 @@
-Bob
-John
-Joe
+['Hello World, im new to Python']

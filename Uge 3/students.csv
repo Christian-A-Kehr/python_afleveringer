@@ -1,0 +1,11 @@
+stud_name,course_name,teacher,ects,classroom,grade,img_url
+Bob Madsen,Programing,Robert Carradine,120,789,2,pic3
+Bob Madsen,Gym,Jim Jockman,30,456,10,pic3
+Isabella Larsen,Hunting,Bear Grylls,75,101,7,pic1
+Isabella Larsen,Programing,Robert Carradine,120,789,12,pic1
+Isabella Larsen,Gym,Jim Jockman,30,456,10,pic1
+ Rune Nilsen,Sailing,Kpt Nemo,15,102,4,pic2
+ Rune Nilsen,Math,John Mathman,60,123,2,pic2
+ Rune Nilsen,Hunting,Bear Grylls,75,101,10,pic2
+Hanne Nilsen,Gym,Jim Jockman,30,456,10,pic1
+Hanne Nilsen,Math,John Mathman,60,123,7,pic1
